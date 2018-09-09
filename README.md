@@ -469,6 +469,7 @@ your goals and take your project to the next level.
 
 ### Customer Feedback
 
+* STOMT | https://www.stomt.com | [@stomt](https://twitter.com/stomt) | Freemium & Enterprise tiers | Most customer-centric feedback platform on the market. Integrates in all touchpoints, allows to filter feedback after customer segment and follow up in bulk.
 * PickFu | https://www.pickfu.com | [@pickfu](https://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.
 * Promoter.io | https://www.promoter.io | [@Promoter_io](https://twitter.com/promoter_io) | $50/mo - $500/mo | Helps companies quickly gain predictive customer intelligence & insights driven by NPS (Net Promoter) to increase revenue and reduce churn.
